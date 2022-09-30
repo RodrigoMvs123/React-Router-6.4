@@ -6,6 +6,12 @@ https://www.youtube.com/watch?v=L2kzUg6IzxM&t=32s
 https://github.com/academind/react-router-6.4-intro
 ##
 
+https://raw.githubusercontent.com/RodrigoMvs123/React-Router-6.4/main/README.md
+
+##
+
+##
+
 Api.js 
 export async function getPosts() {
   const response = await fetch('https://jsonplaceholder.typicode.com/posts');
